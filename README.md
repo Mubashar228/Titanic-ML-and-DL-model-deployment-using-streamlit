@@ -106,6 +106,7 @@ Mubashar Ul Hassan
 Star 🌟 this repository
 
 Share it with your friends
+![ml_vs_dl_comparison](https://github.com/user-attachments/assets/194587a3-e7ce-4e90-99f4-363e0ae30264)
 
 Feel free to fork and improve!
 
