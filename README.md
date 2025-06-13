@@ -99,8 +99,8 @@ Deploy on cloud (e.g. Streamlit Cloud / HuggingFace / AWS)
 🙋‍♂️ About the Author
 Mubashar Ul Hassan
 🎓 Data Scientist | 📊 Big Data Enthusiast | 🧠 AI Explorer
-🔗 LinkedIn Profile
-📧 Contact: your.email@example.com
+🔗 LinkedIn: www.linkedin.com/in/mubashar228
+📧 Contact: mubasharulhassan00152@gmail.com
 
 ⭐ If you like this project
 Star 🌟 this repository
